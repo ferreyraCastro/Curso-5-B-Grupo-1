@@ -1,47 +1,58 @@
-# Curso-5-B-Grupo-1
+![SanJoseLogo](./Assets//logoSanJose.JPG)
 
-## **üìã PRE-REQUISITOS**
+# **????? CURSO PREPARATORIO| SAN JOSE ?????**
 
-1. Crear una cuenta en [**GITHUB**](https://www.github.com/).
-2. Si usas una computadora con Windows, puedes instalar la terminal de comandos [**GIT-BASH**](https://git-for-windows.github.io/).
+## **?? INTRODUCCI”N**
 
-</br >
+°Hola ??! Bienvenid@ al Curso Preparatorio.
 
-### **üìç EJERCICIO 01**
-
-En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpeta con el nombre "**_homework_N1_**". Utiliza los comandos de m√°s arriba.
-
----
+En este curso introductorio podr·s aprender y practicar todo el contenido que necesitas para convertirte en un desarrollador de Java.
 
 </br >
 
-### **üìç EJERCICIO 02**
+## **?? øQU… ES EL CURSO PREPARATORIO?**
 
-Ingresa a la carpeta que acabas de crear utilizando los comandos ya aprendidos.
+Es un curso diseÒado con la finalidad de nivelar a todos nuestros alumnos. Con este curso dar·s tus primeros pasos en el mundo de la tecnologÌa y aprender·s esos conceptos b·sicos que son necesarios para poder realizar la carrera.
 
----
+El curso consiste en una serie de videos, material teÛrico y ejercicios con los que podr·s aprender nuestro lenguaje de desarrollo: Java. Puedes avanzar con el contenido a tu ritmo y de manera asincrÛnica (es decir, en los horarios y tiempos que tu prefieras).
+</br >
+
+## **?? øC”MO AVANZAR EN ESTE PROCESO?**
+
+Para avanzar debes seguir el material teÛrico junto con los videos que estan disponibles en el aula virtual. Para afianzar tus conocimientos y comenzar a practicar realiza cada una de estas **_Homeworks_**. Esto te facilitar· resolver.
+
+Cualquier duda, nos puedes escribir a gastonferreyra@colegiodesanjose.edu.ar
+
+</br>
 
 </br >
 
-### **üìç EJERCICIO 03**
+## **?? CLASES DE APOYO**
 
-Ahora debes crear un archivo llamado "**_primerArchivo.txt_**". Revisa el comando correspondiente a partir del sistema operativo que utilices (Linux o Windows).
+Para poder acompaÒarte en esta etapa te ofrecemos las **Clases de Apoyo en Vivo**. Este es un espacio donde los estudiantes se ponen a disposiciÛn para despejar todas las dudas que puedas tener mientras est·s estudiando.
+
+Cada dÌa se establece una tem·tica distinta a trabajar. Deber·s llegar a la clase habiendo visto los videos sobre ese tema e intentado resolver los ejercicios, dado que en las clases no se explicar· los temas desde cero sino que se resolver·n dudas puntuales.
+
 
 </br >
 
-## **üíª SUBE TUS AVANCES**
+## **?? SUBE TUS AVANCES**
 
-Te invitamos, cada vez que termines una homework, a que subas tus avances a tu repositorio. ¬øRecordemos c√≥mo hacer esto?
+Te invitamos, cada vez que termines una homework, a que subas tus avances a tu repositorio. øRecordemos cÛmo hacer esto?
 
-Deber√°s ejecutar estos comandos:
+Deber·s ejecutar estos comandos:
 
 ```bash
 git add .
-// Este comando te permitir√° guardar tus cambios en Git.
+// Este comando te permitir· guardar tus cambios en Git.
 
 git commmit -m "tuMensaje"
-// Este comando te permitir√° darle un t√≠tulo a tus cambios.
+// Este comando te permitir· darle un tÌtulo a tus cambios.
 
 git push
-// Este comando subir√° tus cambios al repositorio de GitHub.
+// Este comando subir· tus cambios al repositorio de GitHub.
 ```
+
+Recuerda que todos estos comandos son necesarios. Si tienes alguna duda, °te invitamos a que repases estos comandos en el Prep Course!
+
+Encontrar·s toda la explicaciÛn dentro de: "**`MÛdulo 2 | CreaciÛn de repositorio y primer commit`**".
