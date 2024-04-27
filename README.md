@@ -9,7 +9,7 @@
 
 ### **📍 EJERCICIO 01**
 
-En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpeta con el nombre "_homework_N1_". Utiliza los comandos de más arriba.
+En este ejercicio debes ingresar dentro del repositorio y crear una nueva carpeta con el nombre "**_homework_N1_**". Utiliza los comandos de más arriba.
 
 ---
 
